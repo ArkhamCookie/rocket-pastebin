@@ -1,3 +1,3 @@
 # Rocket Pastebin
 
-A pastebin service written in [Rust](https://rust-lang.org) and powered by [Rocket](https://rocket.rs).
+Following along with [Rocket's Pastebin tutorial](https://rocket.rs/guide/v0.5/pastebin/).
